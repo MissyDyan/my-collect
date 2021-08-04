@@ -1,4 +1,3 @@
-require 'pry'
 
 def my_collect(languages)
     if block_given?
